@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="Head">Tic - Tac - Toe</string>
+    <string name="grid">Grid Image</string>
+    <string name="Turn">%s\'s Turn</string>
+    <string name="Win">%s Won</string>
+    <string name="Reset">Reset</string>
+    <string name="Undo">Undo</string>
+    <string name="Score">%s</string>
+</resources>
