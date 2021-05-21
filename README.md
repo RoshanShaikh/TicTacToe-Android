@@ -15,7 +15,7 @@ We all have played Game Tic-Tac-Toe more than once in our childhood. I have made
 
 * Kotlin
 
-## Instalation
+## Installation
 
 If you want to try it out you can download the apk file [here.](https://github.com/RoshanShaikh/TicTacToe-Android/raw/master/Tic-Tac-Toe.apk)
 
