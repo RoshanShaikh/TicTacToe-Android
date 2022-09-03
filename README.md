@@ -6,7 +6,7 @@ We all have played Game Tic-Tac-Toe more than once in our childhood. I have made
 
 ## Features
 
-* You can Change the default names of the player with ur name.
+* You can Change the default names of the player with your name.
 * It stores the score of each Player.
 * You can undo last move.
 * If You want to reset the scores there is option to reset.
